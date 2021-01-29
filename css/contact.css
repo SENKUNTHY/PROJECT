@@ -5,6 +5,12 @@
     font-family: sans-serif;
   
    }   
+  .map{
+      width: 100%;background: #fff; 
+      height: 70vh;
+      margin-top: auto;
+
+  }
 
 .nav-area {
 	float: right;
