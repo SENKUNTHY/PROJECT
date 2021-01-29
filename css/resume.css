@@ -83,8 +83,7 @@ header {
 /* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap'); */
 
 *{
-	margin: 0;
-	padding: 0;
+	
 	list-style: none;
 	box-sizing: border-box;
 	font-family: 'Ubuntu', sans-serif;
@@ -97,7 +96,7 @@ header {
 
 .resume{
 	width: 800px;
-	background: #fff;
+	background: rgb(247, 247, 247);
 	margin: 25px auto;
 	display: flex;
 }
